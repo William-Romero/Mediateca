@@ -7,3 +7,12 @@ nbproject/
 build/
 dist/
 .vscode/
+target/
+.idea/
+*.log
+*.class
+*.iml
+nbproject/
+build/
+dist/
+.vscode/
