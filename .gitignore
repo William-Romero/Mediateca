@@ -1,0 +1,25 @@
+target/
+logs/
+*.log
+
+# Eclipse/STS
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+.github/
+
+# Build artifacts
+*.class
+build/
+dist/
+out/
+
+# Optional IDE/project files
+nbproject/
